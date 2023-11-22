@@ -1,1 +1,1 @@
-# Powerbi-Dashboard
+Explore diverse collection of Power BI dashboards designed to offer actionable insights across various business domains. Comprehensive suite of interactive visualizations provides a consolidated view of key performance indicators, enabling data-driven decision-making and performance monitoring.# Powerbi-Dashboard
